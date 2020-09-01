@@ -25,6 +25,12 @@ git remote -v
 
 git remote add origin git@github.com:sangameshrently/gitdemo.git
 
-
-
 git status
+
+git add filename 
+
+git commit -m "sam file created"
+
+git push origin master
+
+
