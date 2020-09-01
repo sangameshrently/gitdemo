@@ -1,12 +1,15 @@
 
 
 
-4 types of repository:
+4 types of directories :
 
-1. Remote repository
+1. Remote repository 
+2. Local repository
+3. Untracked files/ new files
+4.
 
 
-
+untracked => add => staggged direcoty => commit => local repository => push => remote   
 
 
 Commnads:
@@ -15,3 +18,13 @@ Commnads:
 1. Clone 
 
 git clone url
+
+to check the remote
+
+git remote -v
+
+git remote add origin git@github.com:sangameshrently/gitdemo.git
+
+
+
+git status
